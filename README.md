@@ -44,6 +44,9 @@ Flyway DB : https://flywaydb.org
 
 Liquibase: https://www.liquibase.org  
 
+### Loggers
+SL4J : http://www.slf4j.org/manual.html 
+
 ### Tutoriels
 Tutoriels Baeldung Spring :  https://www.baeldung.com/spring-tutorial
 
