@@ -46,4 +46,5 @@ Liquibase: https://www.liquibase.org
 
 ### Tutoriels
 Tutoriels Baeldung Spring :  https://www.baeldung.com/spring-tutorial
-Turotiel Baeldung Springboot : https://www.baeldung.com/spring-boot 
+
+Tutoriels Baeldung Springboot : https://www.baeldung.com/spring-boot 
