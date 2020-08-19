@@ -33,8 +33,10 @@ Formation Excils Spring
 Spring Initialize : https://start.spring.io 
 ### Spring ORM 
 Hibernate : https://hibernate.org 
-
+### Git
+Gitignore : https://www.toptal.com/developers/gitignore 
+Git: https://git-scm.com/docs/git 
 ### Migration de base de données 
-Flyway DB : https://flywaydb.org 
+Flyway DB : https://flywaydb.org
 Liquibase: https://www.liquibase.org  
 
