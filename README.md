@@ -25,7 +25,7 @@ On dit de Spring Framework qu'il est modulaire, puisqu'il propose des modules ut
 Framework web de Spring, basé sur l'API servlet, permettant de mettre en place une application web suivant le pattern MVC.
 
 
-#####DispatcherServlet
+##### DispatcherServlet
 
 Servlet central de Spring MVC, permet le traitement des requêtes en déléguant le travail aux autres composants grâce à la config Spring.
 Une application peut avoir plusieurs DispatcherServlet, chacun s'exécutant dans son propre namespace, avec son propre WebApplicationContext.
