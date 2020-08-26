@@ -15,17 +15,6 @@ Aujourd’hui Spring est à la version 5. de la version 4 à la version 5, Sprin
 
 On dit de Spring Framework qu'il est modulaire, puisqu'il propose des modules utilisables de façon indépendante et selon les besoins applicatifs. 
 
-### Historique de Spring
-
-
-### Alternative à Spring 
-
-### Application de Spring 
-
-### Fonctionnement de Spring 
-
-### Modules de Spring 
-
 #### Spring Core Container
  
 * These modules provide IOC and Dependency Injection features.
