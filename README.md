@@ -148,17 +148,6 @@ La technologie de vues dans Spring MVC est configurable. Celà peut être du Thy
 
 /!\ Les vues d'une application Spring MVC ont accès à tous les beans de l'application context.
 
-
-#### Spring security 
-
-#### Spring REST
-
-### API RESTFUL 
-
-# SpringBoot 
-
-# Outil de stockage
-
 # Ressources 
 ### Spring 
 Spring Initialize : https://start.spring.io 
